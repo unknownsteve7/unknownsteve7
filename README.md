@@ -2,7 +2,7 @@
 <h3 align="center">BTech CS Junior | Data Wizard  </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=678079&width=450&lines=Building+Data+Pipelines+%26+Dashboards;Lover+of+SQL%2C+Python+%26+Power+BI;Big+Dreams+%2C+Big+Data+%2C+Bigger+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=678079&width=450&lines=Building+Data+Pipelines+%26+Dashboards;Lover+of+SQL%2C+Python+%26+Power+BI;" alt="Typing SVG" />
 </p>
 
 ---
