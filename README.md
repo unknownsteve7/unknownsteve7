@@ -47,10 +47,10 @@
 
 ---
 
-## 📬 Reach Out
+##  Reach Out
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/madicharla-naga-mohan-34a007349/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://your-portfolio-link.com">
@@ -63,7 +63,7 @@
 
 ---
 
-## ⚙️ GitHub Status
+##  GitHub Status
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=unknownsteve7&theme=gruvbox&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
