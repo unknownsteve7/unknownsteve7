@@ -65,8 +65,6 @@
 
 ##  GitHub Status
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=unknownsteve7&theme=gruvbox&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
-</p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=unknownsteve7" alt="GitHub Streak" /></a>
 
