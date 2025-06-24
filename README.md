@@ -50,13 +50,13 @@
 ##  Reach Out
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/madicharla-naga-mohan-34a007349/">
+  <a href="https://www.linkedin.com/in/nagamohan765">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="nagamohan765.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-View-0A66C2?style=for-the-badge&logo=firefox" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:nagamohan765@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Message-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
