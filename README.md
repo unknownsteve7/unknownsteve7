@@ -7,7 +7,7 @@
 
 ---
 
-##  Quick Bits About Me
+##  Bits About Me
 
 -  Currently building: **Real-world analytics projects**
 -  Learning: **Data Engineering, Cloud, DSA**
