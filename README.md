@@ -1,4 +1,4 @@
-<h1 align="center">Mohan Here – I Design, Develop, and Analyze</h1>
+<h1 align="center">I'm Mohan – I Design, Develop, and Analyze</h1>
 <h3 align="center">BTech CS Junior | Data Wizard  </h3>
 
 <p align="center">
