@@ -85,7 +85,10 @@
   alt="Top Languages"
 /><br>
   <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=unknownsteve7&theme=dark&card_width=450" alt="GitHub Streak" /></a>
-
+<img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=unknownsteve7&theme=react-dark&card_width=450"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 
