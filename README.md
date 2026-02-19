@@ -1,5 +1,5 @@
 <h1 align="center">I'm Mohan – I Design, Develop, and Analyze</h1>
-<h3 align="center">BTech CS Junior | Analyst & Frontend Developer</h3>
+<h3 align="center">BTech CS Junior | Data Analystics Engineer & Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Translating+Data+into+Decisions;Building+Premium+Frontend+Interfaces;Full-Stack+Analytics+%26+Development;Turning+Complex+Logic+into+Clean+Code;" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Tech Universe
+###  Tech Universe
 
 <p align="left">
   <!-- Data & Analytics -->
