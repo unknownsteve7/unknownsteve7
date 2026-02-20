@@ -6,10 +6,10 @@ Just a CS junior who enjoys building scalable systems, working with data, and le
 
 - Data Engineering – mastering pipelines, storage formats, and performance optimization  
 - Full Stack Development – building clean React apps with scalable FastAPI/Node backends  
-- Business Analytics – designing insight-driven dashboards  
+- Data Analytics – designing insight-driven dashboards  
 - AI Applications – applying ML/NLP in real-world systems  
 
 Profile Views  
 ![Profile view counter](https://komarev.com/ghpvc/?username=unknownsteve7)
 
-visit – nagamohan.me
+visit – https://www.nagamohan.me
