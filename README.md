@@ -12,4 +12,6 @@ Currently growing in ~
 Profile Views  
 ![Profile view counter](https://komarev.com/ghpvc/?username=unknownsteve7)
 
-visit – https://www.nagamohan.me
+Portfolio – https://www.nagamohan.me 
+
+Linkedin - https://linkedin.com/in/nagamohan765
