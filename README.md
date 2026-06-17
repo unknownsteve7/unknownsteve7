@@ -1,6 +1,6 @@
 ## Mohan
 
-Just a CS junior who enjoys building scalable systems, working with data, and learning by shipping real projects consistently.
+Just a CS Senior who enjoys building scalable systems, working with data, and learning by shipping real projects consistently.
 
 Currently growing in ~
 
