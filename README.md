@@ -30,7 +30,7 @@ The government's own district codes don't match the API's internal IDs. Found th
 **TRACE** — Transit Analytics & Reliability Correlation Engine, on real Delhi DTC bus data.
 GTFS static feed plus a live Protobuf real-time feed. Batch-first ETL, star schema (trip schedule, trip actual, complaints, weather), built to answer reliability questions a transit authority would actually ask. DMRC data excluded on purpose — scope stays honest.
 
-**UDISE Education Analytics Pipeline** — Python ETL into PostgreSQL, modeled through dbt (staging to marts), visualized in Power BI, with a Gemini API layer on top generating insights from the marts instead of raw numbers.
+**UDISE Education Analytics Pipeline** — Built with PySpark for batch Parquet conversion, DuckDB for direct PostgreSQL bulk loading, a two-tier dbt architecture (10 staging views $\to$ 21 analytical marts with 76 automated tests) modeling RTE teacher compliance, infrastructure indices, and cohort drop-off bottlenecks, served via an interactive Streamlit dashboard.
 
 
 
